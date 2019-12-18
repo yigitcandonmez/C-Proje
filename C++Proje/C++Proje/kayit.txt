@@ -1,0 +1,4 @@
+Ayakkabi            279                 1000001             0                   MuratYigitcanDonmez Istanbul            
+Telefon             2799                1000001             0                   Berkay              Istanbul            
+Araba               15000               100001              0                   Kadir               Istanbul            
+Eldiven             100                 1000001             0                   Kadi                Istanbul            
